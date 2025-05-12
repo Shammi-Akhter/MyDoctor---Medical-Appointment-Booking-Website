@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/nNhsWFfJ/images.jpg",
+      "name": "Dr. Md. Anisur Rahman",
+      "education": "MBBS (DMC), FCPS (Medicine)",
+      "speciality": "Internal Medicine",
+      "experience": "6 Years Experience",
+      "registration_number": "BMDC/452013",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fee":700
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/MkfL2PmV/images-1.jpg",
+      "name": "Dr. Fatema Begum",
+      "education": "MBBS (CMC), MS (Gynae & Obs)",
+      "speciality": "Gynecology & Obstetrics",
+      "experience": "9 Years Experience",
+      "registration_number": "BMDC/478234",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fee":800
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/211fDS9N/images-2.jpg",
+      "name": "Dr. Mahbub Hasan",
+      "education": "MBBS (SOMC), MD (Cardiology, BSMMU)",
+      "speciality": "Cardiologist",
+      "experience": "12 Years Experience",
+      "registration_number": "BMDC/489321",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fee":1000
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/3ynwJz0G/images-3.jpg",
+      "name": "Dr. Nusrat Jahan",
+      "education": "MBBS (RMC), FCPS (Dermatology)",
+      "speciality": "Dermatologist",
+      "experience": "8 Years Experience",
+      "registration_number": "BMDC/501298",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fee":900
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/wZxrdpfG/28shisir.png",
+      "name": "Dr. Kazi Imran Hossain",
+      "education": "MBBS (DMC), MS (Orthopedics)",
+      "speciality": "Orthopedic Surgeon",
+      "experience": "10 Years Experience",
+      "registration_number": "BMDC/412786",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fee":1000
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/7xCN1Y0b/Taslima-2e16d0ba-fill-500x666-c0.png",
+      "name": "Dr. Sharmin Akter",
+      "education": "MBBS (MMC), MD (Pediatrics)",
+      "speciality": "Pediatrician",
+      "experience": "6 Years Experience",
+      "registration_number": "BMDC/487921",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fee":600
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/8g41pj5b/202412260948-Dr-AB-Shahriar.jpg",
+      "name": "Dr. Md. Rakibul Islam",
+      "education": "MBBS (BMC), FCPS (ENT)",
+      "speciality": "ENT Specialist",
+      "experience": "7 Years Experience",
+      "registration_number": "BMDC/477334",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fee":700
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co.com/p6jzd58V/2022100406241639479563-2-1527920169-2-dr-reyan.jpg",
+      "name": "Dr. Farzana Chowdhury",
+      "education": "MBBS (SSMC), MS (Ophthalmology)",
+      "speciality": "Ophthalmologist",
+      "experience": "10 Years Experience",
+      "registration_number": "BMDC/462899",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fee":800
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co.com/ynqDQYQD/2022100408521642313229-2-Prof-Dr-Maj-Gen-Md-Shahidul-Islam.jpg",
+      "name": "Dr. Md. Arafat Hossain",
+      "education": "MBBS (DMC), MD (Psychiatry, BSMMU)",
+      "speciality": "Psychiatrist",
+      "experience": "15 Years Experience",
+      "registration_number": "BMDC/491234",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fee":1000
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co.com/bR6fVzpZ/2022100409021628078467-2-Tangia-Muquith-IMG-6378-Web-Photo.jpg",
+      "name": "Dr. Tania Rahman",
+      "education": "MBBS (CMC), MS (General Surgery)",
+      "speciality": "General Surgeon",
+      "experience": "6 Years Experience",
+      "registration_number": "BMDC/468900",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fee":700
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co.com/zhbQvSR2/6deb15ed8c1d44239950676d4a46328c.jpg",
+      "name": "Dr. Jahidul Kabir",
+      "education": "MBBS (DMC), DM (Neurology)",
+      "speciality": "Neurologist",
+      "experience": "8 Years Experience",
+      "registration_number": "BMDC/481234",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fee":600
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co.com/rrfKXPH/images-4.jpg",
+      "name": "Dr. Samira Haque",
+      "education": "MBBS (MMC), MS (Urology)",
+      "speciality": "Urologist",
+      "experience": "16 Years Experience",
+      "registration_number": "BMDC/493829",
+      "hospital": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "fee":1500
+    }
+  ]
+  
